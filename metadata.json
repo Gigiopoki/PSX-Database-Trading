@@ -1,0 +1,6 @@
+{
+  "name": "Pet Sim X Database & Trading Hub",
+  "description": "Comprehensive Pet Simulator X database with accurate Wiki values, RAP, Power, animated filters, Trading Calculator with W/F/L detection, and user inventory & trade history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
